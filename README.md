@@ -8,7 +8,7 @@ requirements into technical solutions.
 <hr>
 
 
-<h3 align="left">⭐ Contact: </h3>
+<h3 align="left">📲 Contact: </h3>
 
 
 | LinkedIn | Twitter  |
