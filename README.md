@@ -1,5 +1,5 @@
-## <p align="center">Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
-# <p align="center">I'm Chinmoy Mondal  </p>
+## <p align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
+# <p align="center">I'm chiNmoy  </p>
 📍 Android Developer (Java / Kotlin) || Solved 400+ LeetCode Questions || CodeChef: 1659 || Linux User || IIT(ISM)-Maths & Computing. \
 📍 Java | Kotlin | C++ | Android Development | DSA | MySQL \
 📍 Proficient in C++, Java and Android Development, also familiar with the Linux(Ubuntu) Operating
@@ -8,9 +8,22 @@ requirements into technical solutions.
 <hr>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UndefinedParticle&theme=radical&title_color=F16707&hide_border=true" width="335px" data-canonical->
+<h3 align="left">⭐ Contact: </h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UndefinedParticle&hide_border=true&background=0D111700&border=943BDD00&fire=CB0044&sideNums=FC6401&currStreakLabel=ff96e6e&currStreakNum=E7E7E7FF&sideLabels=EFEFE6&dates=4F5D78&stroke=7F1DA2)](https://git.io/streak-stats)
+
+| Linkedin | Twitter  |
+|-----------|-----------|
+| <p align="center"><a href="https://linkedin.com/in/chinmoy09ine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmoy09ine" height="30" width="40" /></a></p> | <p align="center"> <a href="https://twitter.com/chiNmoy09ine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chiNmoy09ine/" height="30" width="40" /></a> </p> |
+   
+<br>
+
+
+## 📊 GitHub Activity
+| ![chiNmoy github stats](https://github-readme-stats.vercel.app/api?username=UndefinedParticle&show_icons=true&theme=radical) | ![chiNmoy GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UndefinedParticle&theme=radical)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UndefinedParticle&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=UndefinedParticle&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+
+
 <br>
 <img align="right" src="https://komarev.com/ghpvc/?username=your-github-UndefinedParticle&style=flat-square&color=232323">
 <hr>
