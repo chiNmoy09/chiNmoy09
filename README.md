@@ -1,5 +1,5 @@
-## <p align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
-# <p align="center">I'm chiNmoy  </p>
+# <p align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm chiNmoy</p>
+
 📍 Android Developer (Java / Kotlin) || Solved 400+ LeetCode Questions || CodeChef: 1659 || Linux User || IIT(ISM)-Maths & Computing. \
 📍 Java | Kotlin | C++ | Android Development | DSA | MySQL \
 📍 Proficient in C++, Java and Android Development, also familiar with the Linux(Ubuntu) Operating
