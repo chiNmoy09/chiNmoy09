@@ -1,6 +1,6 @@
 ## <p align="center">Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
 # <p align="center">I'm Chinmoy Mondal  </p>
-🔭 Android Developer (Java / Kotlin) || Solved 400+ LeetCode Questions || CodeChef: 1659 || Linux User || IIT(ISM)-Mathematics & Computing. \
+🔭 Android Developer (Java / Kotlin) || Solved 400+ LeetCode Questions || CodeChef: 1659 || Linux User || IIT(ISM)-Maths & Computing. \
 💻 Java | Kotlin | C++ | Android Development | DSA | MySQL \
 🌱 Proficient in C++, Java and Android Development, also familiar with the Linux(Ubuntu) Operating
 System. Passionate about implementing and launching new projects, has ability to translate business
