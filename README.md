@@ -24,6 +24,8 @@ requirements into technical solutions.
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UndefinedParticle&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=UndefinedParticle&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
 
-<br>
-<img align="right" src="https://komarev.com/ghpvc/?username=your-github-UndefinedParticle&style=flat-square&color=232323">
-<hr>
+<p align="right">
+
+<img src="https://komarev.com/ghpvc/?username=UndefinedParticle&label=Profile%20views&color=0e75b6&style=flat" alt="UndefinedParticle" />
+
+</p>
