@@ -19,13 +19,13 @@ requirements into technical solutions.
 
 
 ## 📊 GitHub Activity
-| ![chiNmoy github stats](https://github-readme-stats.vercel.app/api?username=UndefinedParticle&show_icons=true&theme=radical) | ![chiNmoy GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UndefinedParticle&theme=radical)                                                                                                           |
+| ![chiNmoy github stats](https://github-readme-stats.vercel.app/api?username=chiNmoy09&show_icons=true&theme=radical) | ![chiNmoy GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chiNmoy09&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UndefinedParticle&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=UndefinedParticle&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiNmoy09&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=chiNmoy09&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
 
 <p align="right">
 
-<img src="https://komarev.com/ghpvc/?username=UndefinedParticle&label=Profile%20views&color=0e75b6&style=flat" alt="UndefinedParticle" />
+<img src="https://komarev.com/ghpvc/?username=chiNmoy09&label=Profile%20views&color=0e75b6&style=flat" alt="chiNmoy09" />
 
 </p>
