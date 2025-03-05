@@ -13,7 +13,7 @@ requirements into technical solutions.
 
 | LinkedIn | Twitter  |
 |-----------|-----------|
-| <p align="center"><a href="https://linkedin.com/in/chinmoy09ine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmoy09ine" height="30" width="40" /></a></p> | <p align="center"> <a href="https://twitter.com/chiNmoy09ine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chiNmoy09ine/" height="30" width="40" /></a> </p> |
+| <p align="center"><a href="https://linkedin.com/in/chinmoy09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmoy09" height="30" width="40" /></a></p> | <p align="center"> <a href="https://twitter.com/chiNmoy_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chiNmoy_09/" height="30" width="40" /></a> </p> |
    
 <br>
 
